@@ -12,7 +12,7 @@ This is a school project.
    ```bash
    git clone https://github.com/KBluelvl/Chess.git
    ```
-2. Run in IDE.
+2. Run [`StibView.java`](./stib/src/main/java/view/StibView.java) in IDE.
 
 # preview:
 ![Main Interface](https://github.com/user-attachments/assets/d89a4ebf-47ef-4691-a6b8-0ba6919b55fe)
